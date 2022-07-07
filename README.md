@@ -2,10 +2,7 @@
 
 # Pneumonia 3-Class Classification
 
-The code used for my submissions, winning the in-class Kaggle competition, can be found:
-
-- Google Colab
-- GitHub
+The code used for my submissions, achieved a 86.84% accuracy on Pricate Results ranking 2nd in the in-class Kaggle competition
 
 ## Goal
 
