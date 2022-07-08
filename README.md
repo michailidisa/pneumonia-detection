@@ -2,7 +2,7 @@
 
 # Pneumonia 3-Class Classification
 
-The code used for my submissions, achieved a 86.84% accuracy on Private Results ranking 2nd in the in-class Kaggle competition
+The code used for the submissions, achieved a 86.85% accuracy on Private Results ranking 2nd on the in-class Kaggle competition
 
 ## Goal
 
